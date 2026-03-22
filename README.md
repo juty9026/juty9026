@@ -1,21 +1,56 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=gradient&text=Frontend%20Engineer&fontSize=48&textBg=false&animation=twinkling&rotate=0&fontAlignY=44&desc=Building%20reliable%20product%20experiences%20with%20React,%20Next.js,%20and%20TypeScript&fontAlign=36&descSize=24&descAlignY=64&section=header&reversal=false&fontColor=FFFFFF" />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Minu&desc=Web%20Developer%20who%20wants%20to%20change%20the%20world&fontSize=50&descSize=30&fontAlign=20&fontAlignY=35&descAlign=50&descAlignY=50&animation=twinkling)
+## Professional Snapshot
 
-</div>
+Frontend Engineer building reliable, maintainable, and product-focused web experiences.
 
-<div align="center">
+I mainly work with **React, Next.js, and TypeScript**, and care about more than shipping UI.  
+I think in terms of **state, data flow, failure handling, testing, and long-term maintainability**.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juty9026&hide=prs,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+My recent work has focused on:
+- improving UX and reliability in production environments
+- designing frontend architecture that scales with product complexity
+- raising delivery quality through testing, CI/CD, and monitoring
+- exploring how AI can improve both product experience and engineering workflow
 
-</div>
+## Tech
 
-<div align="center">
+**Core**  
+React, Next.js, TypeScript, JavaScript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juty9026&layout=compact&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+**UI / Styling**  
+HTML/CSS, Tailwind CSS, CSS Modules
 
+**Testing / Quality**  
+Vitest, Playwright, React Testing Library
 
-</div>
+**Data / Product Engineering**  
+Prisma, Supabase, API integration, frontend architecture
+
+## Selected Work
+
+### Production Experience
+- **[Welda](https://www.welda.co.kr)** — production frontend work focused on UX consistency, operational stability, and continuous improvement
+- **[ReadingFit](https://macadamia.daekyo.com/product/detail?productCd=ER&bdCd=1)** — reading-focused product project exploring content structure, user flow, and product clarity
+- **[DoctorHere](https://doctorhere.com)** — production frontend work focused on improving service usability, delivery stability, and real-world product quality
+
+### Personal Projects
+- **dayn.** — digital invitation builder with structured editing, theme customization, and event-centered user flows
+- **[portfolio-atlas](https://dev-minu.space)** — portfolio project centered on case studies, system thinking, and AI-assisted interaction
+
+## What I Care About
+
+- frontend systems that stay understandable as products grow
+- product quality across UX, reliability, and maintainability
+- thoughtful collaboration with design, backend, and product
+- building interfaces as part of a larger operational system
+
+## Contact
+
+- Email: **juty9026@gmail.com**
+- Portfolio: **[dev-minu.space](https://dev-minu.space)**
 
 <!---
 juty9026/juty9026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
