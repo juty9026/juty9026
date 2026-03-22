@@ -32,13 +32,13 @@ Prisma, Supabase, API integration, frontend architecture
 ## Selected Work
 
 ### Production Experience
-- **[Welda](https://www.welda.co.kr)** — production frontend work focused on UX consistency, operational stability, and continuous improvement
-- **[ReadingFit](https://macadamia.daekyo.com/product/detail?productCd=ER&bdCd=1)** — reading-focused product project exploring content structure, user flow, and product clarity
-- **[DoctorHere](https://doctorhere.com)** — production frontend work focused on improving service usability, delivery stability, and real-world product quality
+- **[Welda](https://www.welda.co.kr)** — blood glucose-based healthcare product family spanning a user-facing mobile web experience and supporting operational workflows
+- **[ReadingFit](https://macadamia.daekyo.com/product/detail?productCd=ER&bdCd=1)** — EdTech platform connecting student learning, teacher LMS, content CMS, and shared API workflows in one product ecosystem
+- **[DoctorHere](https://doctorhere.com)** — Telemedicine platform connecting remote care, membership payments, real-time chat, and lab result monitoring
 
 ### Personal Projects
-- **dayn.** — digital invitation builder with structured editing, theme customization, and event-centered user flows
-- **[portfolio-atlas](https://dev-minu.space)** — portfolio project centered on case studies, system thinking, and AI-assisted interaction
+- **dayn.** — premium mobile invitation builder with structured editing, live preview, and event-centered customization
+- **[portfolio-atlas](https://dev-minu.space)** — multi-interface portfolio product that lets readers explore the same career narrative through web, CLI, AI Assistant
 
 ## What I Care About
 
